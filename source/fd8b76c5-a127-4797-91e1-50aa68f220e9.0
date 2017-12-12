@@ -1,5 +1,5 @@
 ﻿{3,
-{42,0,0,0,0,1,0,0,00000000-0000-0000-0000-000000000000,0,
+{46,0,0,0,0,1,0,0,00000000-0000-0000-0000-000000000000,0,
 {1,0},0,0,1,1,1,0,1,0,
 {1,9f2e5ddb-3492-4f5d-8f0d-416b8d1d5c5b,"ПриСозданииНаСервере",1,0,9f2e5ddb-3492-4f5d-8f0d-416b8d1d5c5b,0,1},
 {0},1,
@@ -47,7 +47,7 @@
 {0},0,1,0,48312c09-257f-4b29-b280-284dd89efc1e}
 },0,1,2,
 {1,
-{1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},1,"",2,0,0,0,0,0,3,3,0,0,2},"&НаСервере
+{1,0},0},0,0,1,0,0,1,0,3,3},0,3,3},1,"",2,0,0,0,0,0,3,3,0,0,2,100,1,1,0},"&НаСервере
 Функция ОбъектОбработки()
 	Возврат РеквизитФормыВЗначение(""Объект"");
 КонецФункции
@@ -170,7 +170,8 @@ Oi8vdjguMWMucnUvOC4xL2RhdGEvdWkiIHhtbG5zOndlYj0iaHR0cDovL3Y4LjFj
 LnJ1LzguMS9kYXRhL3VpL2NvbG9ycy93ZWIiIHhtbG5zOndpbj0iaHR0cDovL3Y4
 LjFjLnJ1LzguMS9kYXRhL3VpL2NvbG9ycy93aW5kb3dzIiB4bWxuczp4cz0iaHR0
 cDovL3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEiIHhtbG5zOnhzaT0iaHR0cDov
-L3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiLz4=}
+L3d3dy53My5vcmcvMjAwMS9YTUxTY2hlbWEtaW5zdGFuY2UiPg0KCTxvdXRwdXRQ
+YXJhbWV0ZXJzLz4NCjwvU2V0dGluZ3M+}
 },
 {0,0},
 {0,0},
