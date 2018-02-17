@@ -18,12 +18,6 @@
 
 ## Возможности обработки
 
-
-
-
-
-[]()
-
 * [автоподстановка](https://infostart.ru/profile/1396/blog/26703/) при написании запросов ([Intellisense](https://ru.wikipedia.org/wiki/IntelliSense))
 * [вызов из отладки](https://infostart.ru/profile/1396/blog/26700/) с заполнением параметров запроса.
 * [адаптивный](https://infostart.ru/profile/1396/blog/26705/) интерфейс
@@ -57,12 +51,12 @@
 ## Участие в развитии обработки:
 
 * поучаствовать в разработке на github
-* поддержать проект финансово
-* скачать с инфостарта
-* сообщить об ошибке на email или здесь (требуется регистрация)
+* [поддержать](https://money.yandex.ru/to/41001524970245/123) проект финансово
+* [скачать](https://infostart.ru/public/14183/#slide-to-files) с инфостарта
+* сообщить об ошибке на [email](mailto:1c@lavelin.ru?subject=%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B0%20%D0%B2%20consquery&body=%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D0%BF%D0%BB%D0%B0%D1%82%D1%84%D0%BE%D1%80%D0%BC%D1%8B%3A%208.X.X.XXXX%0A%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC%20%D1%81%D0%BE%D0%B2%D0%BC%D0%B5%D1%81%D1%82%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%3A%20%D0%9D%D0%B5%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%20%2F%20%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F%208.X.X%0A%D0%92%D0%B5%D1%80%D1%81%D0%B8%D1%8F%20%D0%BE%D0%B1%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8%3A%20X.X.X%0A%D0%A0%D0%B5%D0%B6%D0%B8%D0%BC%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%8B%3A%20%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D0%B5%D0%BC%D1%8B%D0%B9%20%2F%20%D0%9E%D0%B1%D1%8B%D1%87%D0%BD%D1%8B%D0%B9%0A%0A%D0%9E%D0%BF%D0%B8%D1%81%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%88%D0%B8%D0%B1%D0%BA%D0%B8%3A%0A..)
 * выложить ролик на youtube, пост с описанием какого-то функционала обработки
 * опубликовать ссылку на обработку
-* [предложить](mailto:1c@lavelin.ru?subject=%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC%D1%8B%D0%B9%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%20consquery&body=%D0%AF%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%20%D0%B2%20consquery%20........") свой функционал
+* [предложить](mailto:1c@lavelin.ru?subject=%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC%D1%8B%D0%B9%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%20consquery&body=%D0%AF%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%20%D0%B2%20consquery%20........) свой функционал
 
 ***
 Как скачать консоль с gitub
