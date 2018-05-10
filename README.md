@@ -1,3 +1,5 @@
+[Как скачать консоль с gitub](#downloads)
+
 # Консоль запросов 1C "consquery.ru" ![](http://www.protongroup.org/media/clnews/150x150/14249497381472829258.png)
 Старое название: _Дополненная обработка Консоль запросов (обычный + управляемый)_
 
@@ -59,7 +61,7 @@
 * [предложить](mailto:1c@lavelin.ru?subject=%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D0%B5%D0%BC%D1%8B%D0%B9%20%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%20consquery&body=%D0%AF%20%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E%20%D0%B2%20consquery%20........) свой функционал
 
 ***
-Как скачать консоль с gitub
+## <a name="downloads">Как скачать консоль с gitub</a>
 
 <a href="https://youtu.be/NxvWigrtdE4" target="_blank"><img src="http://img.youtube.com/vi/NxvWigrtdE4/0.jpg" 
 alt="как скачать консоль consquery с gitub" width="900" border="1" /></a>
